@@ -13,4 +13,7 @@ Some people played with it, though:
 
 We do not endorse any of these as full stack frameworks, but they're nice to see how components can bound together.
 
+Although not strictly framework related it is worth a special notice for the guys at Respect52 who decideded they love our libraries so much that they started back porting them to PHP 5.2 so you never have to go without.
+  * https://github.com/Respect52
+
 We encourage you to try new things. Keep your interfaces clean and your code small, rock on!
