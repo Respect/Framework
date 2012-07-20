@@ -9,6 +9,7 @@ Some people played with it, though:
   * https://github.com/alganet/Resplendor
   * https://gist.github.com/2256112
   * https://github.com/alganet/ConfigDoctrineSymfony2HttpKernel/
+  * https://github.com/superjimpupcake/PupcakeRespectRoute
 
 We do not endorse any of these as full stack frameworks, but they're nice to see how components can bound together.
 
